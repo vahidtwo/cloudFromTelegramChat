@@ -35,7 +35,6 @@ def create_word_cloud():
     image = word_cloud.to_image()
     image.save('cloud.png')
 
-
 async def main():
     await client.connect()
     if not await client.is_user_authorized():
