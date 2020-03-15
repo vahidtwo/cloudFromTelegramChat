@@ -1,4 +1,4 @@
-##CloudWord from telegram
+## CloudWord from telegram
 get a special id of user or chanel and create a cloud word with thar conversation.
 
 requirement :
