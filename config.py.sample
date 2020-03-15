@@ -1,0 +1,5 @@
+api_id = 'api id that get from telegram website'
+api_hash = 'api hash that get from telegram website'
+phone = 'your phone number for validate login'
+my_username = 'your user name'
+end_username = "end username of chanel id or open group id that want get message"
